@@ -14,9 +14,9 @@ tags: phase-1 orientation command-line
 ## ✅ TODO today
 
 1. Complete today's (quiz)[https://forms.gle/LqUdHp58vosfKDtz9].
-1. Read the [student guidelines](https://github.com/momentumlearn/student-resources/blob/main/articles/student-guidelines.md) and [how we work remotely](https://github.com/momentumlearn/student-resources/blob/master/articles/working-remotely.md) docs in their entirety.
-2. Make sure your computer is [all set up and ready to go](https://github.com/momentumlearn/student-resources/blob/master/articles/setup.md).
-3. Read the [Really friendly command-line intro](https://drive.google.com/open?id=1E4ALJrjclTYE4C6lwIV517-SOXiZ-Dqb).
+2. Read the [student guidelines](https://github.com/momentumlearn/student-resources/blob/main/articles/student-guidelines.md) and [how we work remotely](https://github.com/momentumlearn/student-resources/blob/master/articles/working-remotely.md) docs in their entirety.
+3. Make sure your computer is [all set up and ready to go](https://github.com/momentumlearn/student-resources/blob/master/articles/setup.md).
+4. Read the [Really friendly command-line intro](https://drive.google.com/open?id=1E4ALJrjclTYE4C6lwIV517-SOXiZ-Dqb).
 5. Complete the [Command Challenge](https://cmdchallenge.com) 
 
 
