@@ -21,6 +21,7 @@ Welcome to Back End Development, where we'll be learning about:
 
 ### 🎯 Project
 
+[Quiz](https://forms.gle/MPFaEDh5kZ6Q1jDm8)
 [Python Tutorial](https://www.learnpython.org/)
 * Complete through the "Functions" section.
 
