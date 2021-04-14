@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🐍 🦊 Phase 3 Collaborative Project 🦊 🐍
+title: 🐍 🦊 Disregard This Post, Please 🦊 🐍
 tags: phase-3 team fe be
 ---
 

@@ -21,11 +21,8 @@ tags: phase-2 python
 * [A Byte of Python](https://python.swaroopch.com/)
 * [Official Python docs](https://docs.python.org/3/)
 
-### ⭐️ EXTRA/TMI
-You may find yourself surprised when trying to assign variables inside of 
-functions that you have previously assigned outside the function, and it 
-doesn't work. This article explains why. 
-* [Scope of Variables in Python](https://www.datacamp.com/community/tutorials/scope-of-variables-python)
+### ⭐️ EXTRA/TMI 
+* [How Computers Work](https://dev.to/sait/how-computers-work-89i)
 
 ### 📹 Code, Slides, and Video from Class
 
