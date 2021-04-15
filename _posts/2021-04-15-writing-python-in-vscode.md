@@ -9,7 +9,6 @@ tags: python
 - Starting a Python program in VS Code
 - Strategies for getting started
 
-
 ### 🎯 Project
 
 - No quiz today.
