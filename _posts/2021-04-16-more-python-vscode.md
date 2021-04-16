@@ -33,6 +33,6 @@ tags: python
 ### 📹 Code, Slides, and Video from Class
 
 * [Code](https://github.com/momentum-pt-team-1/examples/blob/main/card_game.py)
-* [Video](https://us02web.zoom.us/rec/share/aBQgMbzrWtK_ZHRZvhfudNypipVh8yhcEYlEwE42Be5tm6_hBkdKwsbFX9CoBOjt.hnYN3PQBQAkzx8sD)
-    - Access Passcode: Uuq0g#2D
+* [Video](https://us02web.zoom.us/rec/share/fy52iTaLwWaNgBG-6OQS1mnEnen5mKXXz5Tx67NkqDokQwZKZYWQtIEHffsnT9_6.A8Dw_m8MEzJdpb-d)
+    - Access Passcode: u^E=%aM9
 
