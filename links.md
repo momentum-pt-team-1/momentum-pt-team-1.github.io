@@ -20,9 +20,9 @@ layout: default
 
 ## GitHub
 
-- [Class GitHub organization](https://github.com/momentum-team-7) -- all your assignment repos are located here
-  - [code examples from class](https://github.com/momentum-team-7/examples)
-  - [notes/slides from class](https://github.com/momentum-team-7/notes)
+- [Class GitHub organization](https://github.com/momentum-pt-team-1/) -- all your assignment repos are located here
+  - [code examples from class](https://github.com/momentum-pt-team-1/examples)
+  - [notes/slides from class](https://github.com/momentum-pt-team-1/notes)
 
 ## General References
 
