@@ -9,7 +9,7 @@ tags: python
 - Python Lists, Dictionaries & Tuples
 
 ### 🎯  Project
-- [Practice with Code Wars](https://www.codewars.com/)
+- [Weekend Practice](https://classroom.github.com/a/Mawm3kU8)
 
 ### 🔖 Resources
 
