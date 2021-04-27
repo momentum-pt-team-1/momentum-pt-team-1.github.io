@@ -24,6 +24,6 @@ tags: python
 * [Code](https://github.com/momentum-pt-team-1/examples/blob/main/blackjack.py)
 * [Notes](https://github.com/momentum-pt-team-1/notes/blob/main/python-object-oriented.md)
 * [Video](https://us02web.zoom.us/rec/share/Nv7kQ1yZHzMBWD2XUWe-I66pCuCbsy-kReI4ugndQP1t3ON_C-OfXOJ7JFwd9Iwc.FnTWGIMYL7OZApUI)
-  - Access Passcode: .E0NV6HN)
+  - Access Passcode: .E0NV6HN
 
 
