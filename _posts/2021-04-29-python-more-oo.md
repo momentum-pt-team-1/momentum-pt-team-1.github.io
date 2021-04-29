@@ -11,7 +11,7 @@ tags: python
   - Classes
 
 ### 🎯  Project
-- [OO Programming with Pygame](https://classroom.github.com/a/IElYQWcd)
+- [OO Python Pair Project](https://classroom.github.com/g/NSfbt93V)
 
 ### 🔖 Resources
 
