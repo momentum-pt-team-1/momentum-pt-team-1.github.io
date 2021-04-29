@@ -16,7 +16,7 @@ tags: python
 ### 🔖 Resources
 
 * [Real Python OOP in Python](https://realpython.com/python3-object-oriented-programming/)
-* [Studying by Writing Glossaries](https://katiekodes.com/study-glossaries/)
+* [IBM OO in Python](https://developer.ibm.com/languages/python/tutorials/object-oriented-programming-in-python/)
 
 
 ### 📹 Code, Slides, and Video from Class
