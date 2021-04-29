@@ -16,7 +16,7 @@ tags: python
 ### 🔖 Resources
 
 * [Real Python OOP in Python](https://realpython.com/python3-object-oriented-programming/)
-* [Single Responsibility Principle in Python](https://dev.to/wemake-services/enforcing-single-responsibility-principle-in-python-2il8)
+* [Single Responsibility Principle in Python](https://dev.to/annalara/solid-programming-part-1-single-responsibility-principle-1ki6)
 
 
 ### 📹 Code, Slides, and Video from Class
