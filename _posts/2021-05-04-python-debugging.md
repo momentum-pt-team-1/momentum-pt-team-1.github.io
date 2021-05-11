@@ -20,10 +20,10 @@ tags: python
 
 ### 📹 Code, Slides, and Video from Class
 
-* [Code](https://github.com/momentum-pt-team-1/examples/blob/main/blackjack.py)
 * [Notes](https://github.com/momentum-pt-team-1/notes/blob/main/python-object-oriented.md)
-* [Video](https://us02web.zoom.us/rec/share/FZ0u49H4To2QK-7_BeE_2Isi9VgbcZ8dkERxcWllCnwLXwyCxrxiCu1113kATGeX.wPDBpkUPlIZQshTC)
+* [Video](https://us02web.zoom.us/rec/share/eRwemACTQBzd9X-jW2DgSwGyZb4FLf0TvX6uQdSt2WD-f1QrPleTbQCRlUSbhER4.il6sDdKk_HN_Z_vL)
 
-  - Access Passcode: C7TP61F%
+Access Passcode: 0j!hjb@@
+
 
 
