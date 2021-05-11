@@ -19,7 +19,7 @@ tags: phase-2 python
 
 * [Pretty Printed Django Videos](https://www.youtube.com/playlist?list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
 - 1-10 are the ones that will be most relevant when we get back
-* [Review Python with Games](https://learn.arcade.academy/)
+* [Django Chat Podcast](https://djangochat.com/episodes/how-to-learn-django)
 
 ### ⭐️ EXTRA/TMI
 * [Who governs the Internet?]((https://news.brown.edu/articles/2014/12/savage)) TL;DR Nobody
