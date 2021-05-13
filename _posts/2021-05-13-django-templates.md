@@ -35,7 +35,7 @@ tags: phase-2 python
 
 * [Slides](https://github.com/momentum-pt-team-1/notes/blob/main/django-getting-started.md)
 * [Code](https://github.com/momentum-pt-team-1/examples/tree/main/todos)
-* [Class Video](https://us02web.zoom.us/rec/share/JZQlELtWYX2-5vlOtAz9lJRvf9ciF7ZKoPUblSeVytj7B8a5ETUsT8gpc-HuFsGf.RWZWT-68tI9XnYHG)
+* [Class Video](https://us02web.zoom.us/rec/share/gAk3vGkGbLKryFbe7aHVZcPC7tXlPAry_7D4gOyr0Cywoz5sRiWcbBP6qqpm3fnZ.7jRwG86BCzdR3wE3)
 
-Access Passcode: q#mS3B#4
+Access Passcode: j0@3BbN%
 
