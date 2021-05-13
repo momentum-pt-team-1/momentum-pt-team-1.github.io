@@ -12,7 +12,7 @@ tags: phase-2 python
 ### 🎯  Project
 
 - [DjangoGirls Tutorial](https://tutorial.djangogirls.org/en/)
-    - complete by Monday, January 4
+    - complete by Tuesday, May 18 with *STYLE*
 - (Optional supplement)[Mozilla Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website)
 - *ADD STYLE* - Front End Practice
     - [Mozilla Getting Started, HTML, and CSS](https://django-orm-cookbook-ko.readthedocs.io/_/downloads/en/latest/pdf/)
