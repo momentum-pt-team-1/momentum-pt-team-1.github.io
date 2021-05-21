@@ -30,4 +30,6 @@ tags: python
 
 * [Code](https://github.com/momentum-pt-team-1/examples/tree/main/todos)
 * [Class Video](https://drive.google.com/file/d/1X01a55klHJu_oekmdVn_-2cLIqn_v5Ha/view?usp=sharing)
+* [Career Services Video](https://us02web.zoom.us/rec/share/fr46NP7RC_UgWkBXV1VRH19XfZ7n_LSvYFcFv1e_aZouXWlNb3S4vUO2pVu8X1Ak.rkfdJ5i0DZ_XuFdm?startTime=1621609333000)
+Passcode: Xi%nnv0+
 
