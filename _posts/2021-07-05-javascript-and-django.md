@@ -22,8 +22,8 @@ tags: javascript, django
 
 ### 🎯  Project
 
-- [Make a Calculator with JS](https://classroom.github.com/a/VxDvod9e)
-The focus of this week is to complete this project. Please share your questions in class and in Slack.
+- [Add JS to Django App](https://github.com/momentum-pt-team-1/django-diary-example) 
+_note that you will want to FORK 🔱 this repository. Instructions coming this week_
 
 ### 🔖 Resources
 _Readings_
@@ -40,7 +40,5 @@ _Videos_
 
 ### 📹 Code, Slides, and Video from Class
 
-* [Code](https://github.com/momentum-pt-team-1/django-diary-example) 
-_note that you will want to FORK 🔱 this repository_
 * [Career Services Videos](https://docs.google.com/document/d/11GLQox2UwiLJwgLAYysLUSrkX5zPVxXt47IpRRqD7eY/edit?usp=sharing)
 * [Friday Huddle Videos](https://docs.google.com/document/d/1M3ERM9RIhCGINO2Os0_fi3fAiG-xFppMFIyjgkm4tdM/edit?usp=sharing)
